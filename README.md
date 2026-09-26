@@ -1,41 +1,33 @@
 # Emmanuel Essien
 
-Computer Science student and software developer focused on understanding and building systems from the ground up.
+I'm a Computer Science student currently learning and building with **C, Java, and Rust**.
 
-I currently work mainly with **C, Java, and Rust**, with interests spanning software architecture, data recovery, audio processing, and systems-oriented tooling.
+My interests are mainly around **systems, software architecture, data, and how things work underneath the abstractions**.
 
 ## Current Work
 
-### [VoxCore](https://github.com/Emmanuel-Essien/VoxCore)
-A deterministic compiler for audio: turning decoded audio into a persistent, structured representation rather than repeatedly inferring and flattening information into tags.
+I'm currently working on a couple of research and prototype projects:
 
-**Status:** Active research / pre-specification.
+- **VoxCore** — exploring deterministic, structured representations of decoded audio.
+- **RECON** — building tools for validating, organizing, and inspecting recovered files.
 
-### [RECON](https://github.com/Emmanuel-Essien/RECON)
-A recovery validation and organization toolkit for turning messy file-recovery output into a structured, inspectable, report-backed workspace.
-
-**Status:** Active prototype and research project.
+Both projects are currently private while they are still under active development.
 
 ## What I'm Learning
 
 - **C** — programming fundamentals, data structures, and systems-oriented development
 - **Java** — object-oriented programming and software design
-- **Rust** — systems programming and language fundamentals
-- Software architecture, file formats, validation, and reliable data processing
+- **Rust** — systems programming
+- File formats, validation, data processing, and software architecture
 
 ## Approach
 
-I prefer understanding the underlying mechanism before building on top of it. My projects tend to emphasize:
+I generally prefer understanding the underlying mechanism first, then building the higher-level pieces around it.
 
-- explicit data models and well-defined behavior
+That means my projects tend to focus on:
+
+- clear data models
+- explicit behavior
 - correctness and traceability
-- deterministic processing where practical
-- small, testable foundations before larger abstractions
+- small foundations before larger abstractions
 
-## Current Focus
-
-Building stronger foundations in computer science while developing practical software projects that explore systems, data, and low-level behavior.
-
----
-
-*This profile is a work in progress.*
